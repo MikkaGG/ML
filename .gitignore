@@ -1,0 +1,5 @@
+.vscode/*
+*.code-workspace
+[Bb]in/
+[Oo]bj/
+*.json
